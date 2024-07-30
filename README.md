@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Laxna+Gautam!;" />
 </h1>
 
-<h3 align="center">A passionate software developer </h3>
+<h3 align="center">A passionate software developer. I love exploring new technologies, constantly learning and growing in the tech community.</h3>
 
 <br/>
 
